@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\bin\Debug\net6.0\Bank Account with Constructor.exe
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\bin\Debug\net6.0\Bank Account with Constructor.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\bin\Debug\net6.0\Bank Account with Constructor.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\bin\Debug\net6.0\Bank Account with Constructor.dll
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\bin\Debug\net6.0\Bank Account with Constructor.pdb
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.dll
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\refint\Bank Account with Constructor.dll
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.pdb
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\Bank Account with Constructor.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Bank Account with contructor\Bank Account with Constructor\Bank Account with Constructor\obj\Debug\net6.0\ref\Bank Account with Constructor.dll

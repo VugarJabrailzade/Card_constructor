@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bank Account with Constructor/1.0.0": {
+        "runtime": {
+          "Bank Account with Constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bank Account with Constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
